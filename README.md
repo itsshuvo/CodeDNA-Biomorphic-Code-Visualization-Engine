@@ -86,12 +86,12 @@ The organism is rendered using scalable vector graphics (SVG), allowing:
 
 The final organism is embedded into an HTML interface, making it accessible through a web browser without additional dependencies.
 
-More methods → More tentacles or external extensions
-Larger program body → Bigger and more complex main structure
-More loops → Increased motion or repeating orbit-like elements
-More conditional statements → Additional branching features
-Deep nesting → More distorted or mutated internal structure
-Higher comment density → Smoother and more stable appearance
+More methods → More tentacles or external extensions ,
+Larger program body → Bigger and more complex main structure ,
+More loops → Increased motion or repeating orbit-like elements ,
+More conditional statements → Additional branching features ,
+Deep nesting → More distorted or mutated internal structure ,
+Higher comment density → Smoother and more stable appearance.
 
 ---
 
