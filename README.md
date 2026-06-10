@@ -86,6 +86,13 @@ The organism is rendered using scalable vector graphics (SVG), allowing:
 
 The final organism is embedded into an HTML interface, making it accessible through a web browser without additional dependencies.
 
+More methods → More tentacles or external extensions
+Larger program body → Bigger and more complex main structure
+More loops → Increased motion or repeating orbit-like elements
+More conditional statements → Additional branching features
+Deep nesting → More distorted or mutated internal structure
+Higher comment density → Smoother and more stable appearance
+
 ---
 
 ## 6. Required Tools and Technologies
@@ -130,6 +137,19 @@ To operate the proposed system, the following process is defined:
 6. The generated file is then opened in a web browser for observation.
 
 This process is fully automated and does not require manual configuration beyond providing the input file.
+
+## How to run it
+Put all files inside a codedna package
+Create:
+sample/ (input files)
+output/ (generated files)
+Run Main.java
+
+Then enter:
+
+sample/YourFile.java
+
+It will generate an HTML file and open it automatically.
 
 ---
 
